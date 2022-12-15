@@ -1,0 +1,11 @@
+ol 
+{
+	list-style-type: lower-alpha;
+}
+
+ul
+
+{
+	text-shadow: 2px 2px #ff0000;
+	list-style-type: circle;	
+}
